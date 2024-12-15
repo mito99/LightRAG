@@ -25,3 +25,6 @@ tiktoken
 torch
 transformers
 xxhash
+
+python-dotenv
+google-generativeai

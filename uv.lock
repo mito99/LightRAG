@@ -1,0 +1,11 @@
+version = 1
+requires-python = ">=3.11"
+resolution-markers = [
+    "python_full_version < '3.13'",
+    "python_full_version >= '3.13'",
+]
+
+[[package]]
+name = "lightrag"
+version = "0.1.0"
+source = { virtual = "." }
